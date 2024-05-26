@@ -11,11 +11,14 @@ Lipcse: Júl. 29-30-31, 3 éjszaka
     -> Drezda
     -> Berlin
 
-
-München: Aug 1-2, 2 éjszaka  
+München: Aug 1-2, 2 éjszaka
+    Szállás: Augsburg
     -> Nürnberg
     -> München
-    -> Rottenburg ?
     -> Neuschwanstein kastély
 
-Münchenből haza Ausztrián keresztül
+Linz: Aug 3, 1 éjszaka
+    szállás: Steyr
+
+Linzből Bécsen keresztül haza
+

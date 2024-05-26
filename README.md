@@ -7,7 +7,6 @@
 - Berlin
 - Nürnberg
 - München
-- Rotterdam
 - Neuschwanstein kastély
 
 ## Utazótársak:
